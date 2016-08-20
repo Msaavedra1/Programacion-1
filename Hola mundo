@@ -1,0 +1,17 @@
+// HolaMundo.cpp : Defines the entry point for the console aplication.
+// name: miguel angel saavedra 
+// fecha : 20-08-16
+// librerias
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+// Cuerpo principal
+int main()
+{
+	 cout<<"Hola Mundo \n";
+	 cout<<"Soy Miguel Angel";
+	 getch();
+	 return 0;
+}

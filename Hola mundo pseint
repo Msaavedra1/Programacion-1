@@ -1,5 +1,5 @@
 Proceso HolaMundo
 	Escribir 'Hola Mundo'
-	Leer "Soy Miguel Saavedra"
+	Escribir "Soy Miguel Saavedra"
 FinProceso
 

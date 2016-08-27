@@ -1,0 +1,9 @@
+Proceso Areatriangulo
+	Definir lado Como real;
+	Escribir "Ingresar tamaño del lado: ";
+	Leer lado; 	 
+	Area <- (lado*lado);
+	Escribir "resultado del area es:", Area;
+	
+
+FinProceso

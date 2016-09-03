@@ -1,0 +1,10 @@
+Proceso OperadoresLogicos 
+	Definir A, B Como Logicos;
+	
+	A <- VERDADERO 
+	B <- Falso
+	
+	//Escribir No A ;
+    //Escribir No B;
+	
+FinProceso

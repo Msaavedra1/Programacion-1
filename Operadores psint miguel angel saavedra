@@ -1,0 +1,16 @@
+Proceso Operadores
+	Definir A, B Como enteros;
+	A <- 5;
+	B <- 2;
+	Escribir A = B;
+	Escribir A <> B;
+	Escribir A < B;
+	Escribir A > B;
+	Escribir A <= B;
+	Escribir A >= B;
+	Escribir VERDADERO = VERDADERO;
+	Escribir FALSO <> VERDADERO;
+	Escribir "A" = "B";
+	Escribir "A" <> "B";
+	
+FinProceso

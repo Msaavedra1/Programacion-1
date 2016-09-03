@@ -1,0 +1,13 @@
+Proceso Operadores
+	Definir A, B Como Entero
+	A <- 5; 
+	Escribir a+5;
+	Escribir a-5;
+	Escribir a*5;
+	Escribir a/5;
+	Escribir a^5;
+	Escribir a%5;
+	B <- 2;
+	Escribir a*5+10/b
+	Escribir 2*a^2+10*a+b;
+FinProceso

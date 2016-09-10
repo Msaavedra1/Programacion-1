@@ -1,0 +1,14 @@
+Proceso Capital
+	Definir K Como Real;
+	definir I Como Real; 
+	Definir N Como Real;
+	
+	Escribir 'Escribir el capital inicial: ',K;
+	Leer K;
+	Escribir 'Escribir el interes: ',I;
+	Leer I;
+	Escribir 'Escribir los dias: ',N;
+	Leer N;
+	P<- K*I*N/360;
+	Escribir 'Escribir el interes es : ', P;
+FinProceso
